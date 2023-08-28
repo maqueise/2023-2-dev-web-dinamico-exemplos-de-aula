@@ -1,2 +1,2 @@
-import "./libs"
+import './libs'
 import './navbar'

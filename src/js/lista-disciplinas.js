@@ -1,4 +1,5 @@
 import "./libs"
+import "./navbar"
 
 let inputDisciplina = document.querySelector('#disciplina')
 let btnAdicionar = document.querySelector('#btn-adicionar')

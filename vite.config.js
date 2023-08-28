@@ -7,8 +7,9 @@ export default {
         rollupOptions: {
             input: {
                 main: path.resolve(__dirname, "src/index.html"),
-                exemplo01: path.resolve(__dirname, "src/lista-disciplinas.html"),
-                exemplo02: path.resolve(__dirname, "src/fila-atendimento.html")
+                listaDiciplinas: path.resolve(__dirname, "src/lista-disciplinas.html"),
+                posts: path.resolve(__dirname, "src/posts.html"),
+                manipulandoNodeLists: path.resolve(__dirname, "src/manipulando-nodelists.html"),
             }
         }
     }
